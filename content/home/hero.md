@@ -25,7 +25,7 @@ design:
 hero_media: book.svg
 ---
 
-Inspired by the [Gnuplotting](http://www.gnuplotting.org) and [GMT-China] (https://gmt-china.org).
+Inspired by the [Gnuplotting](http://www.gnuplotting.org) and [GMT-China](https://gmt-china.org).
 
 自由分享关于Gnuplot的知识和体会.
 
